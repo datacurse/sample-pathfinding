@@ -9,7 +9,7 @@
   <h3 align="center">Excalibur Demo (Tilemaps, Peasy-UI HUD, and Pathfinding)</h3>
 
   <p align="center">
-    An small project that highlights the use of tilemaps and pathfinding, and demonstrates inegration of peasy-UI
+    An small project that highlights the use of tilemaps and pathfinding, and demonstrates integration of peasy-UI
     <br />
     
   </p>
